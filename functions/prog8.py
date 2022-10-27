@@ -83,7 +83,7 @@ def score():
             ],
             "Covaxin"
         ],
-        7: [
+        8: [
             "What is the name of the NASA Mission, which aims to measure Earth’s global electric potential?",
             [
                 "Endurance",
@@ -93,7 +93,7 @@ def score():
             ],
             "Endurance"
         ],
-        8: [
+        9: [
             "Which country’s scientists have grown plants in lunar soil for the first time?",
             [
                 "India",
@@ -103,7 +103,7 @@ def score():
             ],
             "USA"
         ],
-        9: [
+        10: [
             "Which company has signed a deal with TikTok to be a trusted technology provider in USA?",
             [
                 "Microsoft",
@@ -112,16 +112,6 @@ def score():
                 "Infosys"
             ],
             "Oracle"
-        ],
-        10: [
-            "‘Unicorn’ is the name of which space body, that was recently discovered at 1,500 light-years away from the Earth?",
-            [
-                "Exo-planet",
-                "Asteroid",
-                "Black hole",
-                "Satellite"
-            ],
-            "Endurance"
         ]
     }
 
